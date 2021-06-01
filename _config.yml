@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Sloth-Stack
-description: A blog-site on football analytics and data visuals. 
+description: A blog-site for football analytics and data visuals. 
 github_username: Slothfulwave612
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "Sloth-Stack"
