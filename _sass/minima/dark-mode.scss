@@ -1,5 +1,5 @@
 $high-emph: rgba(white, 0.87);
-$med-emph: #F8F8F8; //Noicee
+$med-emph: rgba(white, 0.75); //Noicee
 $low-emph: rgba(white, 0.38);
 $dark-grey : #222222; 
 // $dark-grey : #1F1B24;
@@ -12,7 +12,7 @@ html, body, input, textarea, select, button {
 }
 
 a {
-    color: rgb(75, 186, 255) !important;
+    color: cornflowerblue !important;
 }
 
 a:hover {
