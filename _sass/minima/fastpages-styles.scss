@@ -2,12 +2,11 @@
 // If you wish to override any of this CSS, do so in _sass/minima/custom-styles.css
 
 .post img {
-        // display: block;
-        position: static;
+        display: inline-block;
         // border:1px solid #021a40;
-        // vertical-align: top;
-        // margin-left: auto;
-        // margin-right: auto;
+        vertical-align: text-top;
+        margin-left: auto;
+        margin-right: auto;
 }
 
 img.emoji{
